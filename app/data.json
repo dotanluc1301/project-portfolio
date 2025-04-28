@@ -186,21 +186,21 @@
       "title": "EVOL assessment",
       "description": "The change prososal and competitive analytics.",
       "outcomes": "",
-      "link": "#",
+      "link": "https://github.com/dotanluc1301/assessment/tree/main/EVOL",
       "image": "/EVOL-Logo.png"
     },
     {
       "title": "Tapestry assessment",
       "description": "The functional requirement document (FRD) for function import",
       "outcomes": "",
-      "link": "#",
+      "link": "https://github.com/dotanluc1301/assessment/tree/main/Tapestry",
       "image": "/Tapestry-Logo.png"
     },
     {
       "title": "REDEX assessment",
       "description": "The list of user stories for onboarding process.",
       "outcomes": "",
-      "link": "#",
+      "link": "https://github.com/dotanluc1301/assessment/tree/main/REDEX%20-%20SGITSOLUTION",
       "image": "/REDEX-Logo.png"
     }
   ]
