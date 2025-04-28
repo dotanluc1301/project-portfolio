@@ -1,0 +1,207 @@
+{
+  "name": "Do Tan Luc",
+  "title": "Business Analyst/Scrum Master",
+  "email": "dotanluc1301@gmail.com",
+  "phone": "0838327414",
+  "location": "Ho Chi Minh, Vietnam",
+  "linkedin": "https://linkedin.com",
+  "github": "https://github.com",
+  "website": "lucdo-portfolio.vercel.app/",
+  "avatar": "/me.jpg",
+  "summary": [
+    "I'm a Business Analyst/Scrum Master with over 3 years of experience in software development and digital transformation, working with leading companies in industry.",
+    "I have a strong passion for learning new things to contribute significant impact solutions that streamline processes and improve user experiences.",
+    "My analytical approach and technical background allow me to bridge the gap between business needs and technical implementation, ensuring successful project delivery."
+  ],
+  "experience": [
+    {
+      "company": "DHL",
+      "position": "Business Analyst",
+      "period": "03/2024 - Present",
+      "teamSize": 8,
+      "responsibilities": [
+        "Build and maintain effective relationships with clients and stakeholders",
+        "Facilitate conversations with stakeholders to identify needs and create requirements",
+        "Ensure client satisfaction and gather feedback for continuous improvement",
+        "Monitor and measure the feature performance",
+        "Support UAT with test cases and data"
+      ]
+    },
+    {
+      "company": "bravoSUITE - Orient Software",
+      "position": "Business Analyst/Scrum Master",
+      "period": "06/2022 - 10/2023",
+      "teamSize": 6,
+      "responsibilities": [
+        "Collect and research the business needs by the demand of the product orientation and feedback",
+        "Inspect and conduct the gap analysis against the competitors in the market",
+        "Design wireframe, compose the models (by using UML) and document for requirement communication",
+        "Work closely with the development team to ensure requirements alignment and successful implementation",
+        "Present the demo with the relevant stakeholders and provide aid in training after release",
+        "Measure the release performance metrics and act accordingly with the result",
+        "Take Scrum delegation role in hosting events, facilitating communication, and crafting the Product roadmap with the technical base"
+      ],
+      "projects": [
+        {
+          "name": "HRMS System Implementation",
+          "link": "https://example.com/project3"
+        }
+      ]
+    },
+    {
+      "company": "CICAT - BOSCH",
+      "position": "Software Engineer",
+      "period": "03/2019 - 05/2022",
+      "teamSize": 5,
+      "responsibilities": [
+        "Implement new features and fix the existing defects",
+        "Take part in analysing requirements and eliciting the needs of stakeholders through open points",
+        "Provide remote technical support to customers via e-mail and Q&A meeting sessions",
+        "Manage and create release details on business documents"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Information Technology | Software Engineer",
+      "institution": "HUFLIT",
+      "period": "2016-2020"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Scaled Professional Scrum",
+      "issuer": "Scrum.org",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Scaled-Professional-Scrum.png",
+      "link": "https://www.scrum.org/user/1370286/"
+    },
+    {
+      "title": "C# (Basic)",
+      "issuer": "HackerRank",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/CSharp-(Basic).png",
+      "link": "https://www.hackerrank.com/certificates/a5f8063755cb"
+    },
+    {
+      "title": "Problem Solving (Basic)",
+      "issuer": "HackerRank",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Problem-Solving-(Basic).png",
+      "link": "https://www.hackerrank.com/certificates/bf2bb1daa7a3"
+    },
+    {
+      "title": "SQL (Intermediate)",
+      "issuer": "HackerRank",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/SQL-(Intermediate).png",
+      "link": "https://www.hackerrank.com/certificates/074e1150240a"
+    },
+    {
+      "title": "SQL (Basic)",
+      "issuer": "HackerRank",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/SQL-(Basic).png",
+      "link": "https://www.hackerrank.com/certificates/e273cca5658c"
+    },
+    {
+      "title": "Professional Scrum Product Owner II",
+      "issuer": "Scrum.org",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Professional-Scrum-Product-Owner-II.png",
+      "link": "https://www.scrum.org/user/1370286/"
+    },
+    {
+      "title": "EF SET English Certificate",
+      "issuer": "EF SET",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/EF-SET-Certificate.png",
+      "link": "https://cert.efset.org/mPQjYr"
+    },
+    {
+      "title": "Professional Scrum Master II",
+      "issuer": "Scrum.org",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Professional-Scrum-Master-II.png",
+      "link": "https://www.scrum.org/user/1370286/"
+    },
+    {
+      "title": "Professional Scrum Product Owner I",
+      "issuer": "Scrum.org",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Professional-Scrum-Product-Owner-I.png",
+      "link": "https://www.scrum.org/user/1370286/"
+    },
+    {
+      "title": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2024",
+      "validUntil": null,
+      "badgeUrl": "/Professional-Scrum-Master-I.png",
+      "link": "https://www.scrum.org/user/1370286/"
+    }
+  ],
+  "skills": [
+    "Analytical Skills",
+    "Critical Thinking",
+    "Logical Thinking",
+    "Systems Thinking",
+    "Conceptual Thinking",
+    "Time Management",
+    "Problem Solving",
+    "Elicitation",
+    "Requirement Management",
+    "Stakeholder Engagement",
+    "Product Backlog Management"
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ],
+  "tools": [
+    "Azure Boards",
+    "DrawIO",
+    "Figma",
+    "SQL Server",
+    "SharePoint",
+    "Oracle",
+    "PostgreSQL",
+    "Visio",
+    "Microsoft Office",
+    "Jira"
+  ],
+  "projects": [
+    {
+      "title": "EVOL assessment",
+      "description": "The change prososal and competitive analytics.",
+      "outcomes": "",
+      "link": "#",
+      "image": "/EVOL-Logo.png"
+    },
+    {
+      "title": "Tapestry assessment",
+      "description": "The functional requirement document (FRD) for function import",
+      "outcomes": "",
+      "link": "#",
+      "image": "/Tapestry-Logo.png"
+    },
+    {
+      "title": "REDEX assessment",
+      "description": "The list of user stories for onboarding process.",
+      "outcomes": "",
+      "link": "#",
+      "image": "/REDEX-Logo.png"
+    }
+  ]
+}
