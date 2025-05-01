@@ -31,7 +31,7 @@
       "company": "bravoSUITE - Orient Software",
       "position": "Business Analyst/Scrum Master",
       "period": "06/2022 - 10/2023",
-      "teamSize": 6,
+      "teamSize": 15,
       "responsibilities": [
         "Collect and research the business needs by the demand of the product orientation and feedback",
         "Inspect and conduct the gap analysis against the competitors in the market",
@@ -52,7 +52,7 @@
       "company": "CICAT - BOSCH",
       "position": "Software Engineer",
       "period": "03/2019 - 05/2022",
-      "teamSize": 5,
+      "teamSize": 7,
       "responsibilities": [
         "Implement new features and fix the existing defects",
         "Take part in analysing requirements and eliciting the needs of stakeholders through open points",
@@ -72,15 +72,15 @@
     {
       "title": "Scaled Professional Scrum",
       "issuer": "Scrum.org",
-      "date": "2024",
+      "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/Scaled-Professional-Scrum.png",
-      "link": "https://www.scrum.org/user/1370286/"
+      "link": "https://www.credly.com/badges/780a449a-01e9-4dca-93f2-8c22079ec17f"
     },
     {
       "title": "C# (Basic)",
       "issuer": "HackerRank",
-      "date": "2024",
+      "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/CSharp-(Basic).png",
       "link": "https://www.hackerrank.com/certificates/a5f8063755cb"
@@ -88,7 +88,7 @@
     {
       "title": "Problem Solving (Basic)",
       "issuer": "HackerRank",
-      "date": "2024",
+      "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/Problem-Solving-(Basic).png",
       "link": "https://www.hackerrank.com/certificates/bf2bb1daa7a3"
@@ -96,7 +96,7 @@
     {
       "title": "SQL (Intermediate)",
       "issuer": "HackerRank",
-      "date": "2024",
+      "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/SQL-(Intermediate).png",
       "link": "https://www.hackerrank.com/certificates/074e1150240a"
@@ -104,7 +104,7 @@
     {
       "title": "SQL (Basic)",
       "issuer": "HackerRank",
-      "date": "2024",
+      "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/SQL-(Basic).png",
       "link": "https://www.hackerrank.com/certificates/e273cca5658c"
@@ -112,15 +112,15 @@
     {
       "title": "Professional Scrum Product Owner II",
       "issuer": "Scrum.org",
-      "date": "2024",
+      "date": "05/2024",
       "validUntil": null,
       "badgeUrl": "/Professional-Scrum-Product-Owner-II.png",
-      "link": "https://www.scrum.org/user/1370286/"
+      "link": "https://www.credly.com/badges/0640763f-8bf0-4adf-a8e8-ce5f64705b89"
     },
     {
       "title": "EF SET English Certificate",
       "issuer": "EF SET",
-      "date": "2024",
+      "date": "04/2024",
       "validUntil": null,
       "badgeUrl": "/EF-SET-Certificate.png",
       "link": "https://cert.efset.org/mPQjYr"
@@ -128,26 +128,26 @@
     {
       "title": "Professional Scrum Master II",
       "issuer": "Scrum.org",
-      "date": "2024",
+      "date": "03/2024",
       "validUntil": null,
       "badgeUrl": "/Professional-Scrum-Master-II.png",
-      "link": "https://www.scrum.org/user/1370286/"
+      "link": "https://www.credly.com/badges/386dcf93-800f-4213-836a-2d6bfeb96d73"
     },
     {
       "title": "Professional Scrum Product Owner I",
       "issuer": "Scrum.org",
-      "date": "2024",
+      "date": "01/2024",
       "validUntil": null,
       "badgeUrl": "/Professional-Scrum-Product-Owner-I.png",
-      "link": "https://www.scrum.org/user/1370286/"
+      "link": "https://www.credly.com/badges/fcebc0b7-8164-468a-a400-4eec4fc36385"
     },
     {
       "title": "Professional Scrum Master I",
       "issuer": "Scrum.org",
-      "date": "2024",
+      "date": "01/2024",
       "validUntil": null,
       "badgeUrl": "/Professional-Scrum-Master-I.png",
-      "link": "https://www.scrum.org/user/1370286/"
+      "link": "https://www.credly.com/badges/323cee09-5c9b-4254-8dc0-a9f9beea87ab"
     }
   ],
   "skills": [
