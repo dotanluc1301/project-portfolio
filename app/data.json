@@ -183,6 +183,13 @@
   ],
   "projects": [
     {
+      "title": "BA documentation",
+      "description": "The reference template(s) for BA documentation.",
+      "outcomes": "",
+      "link": "https://lucdo.notion.site/BA-documents-61d45c8e9917450eba3b8c1bef5acc8c",
+      "image": "/NOTION-Logo.png"
+    },
+    {
       "title": "EVOL assessment",
       "description": "The change prososal and competitive analytics.",
       "outcomes": "",
