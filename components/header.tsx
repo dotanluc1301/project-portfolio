@@ -80,7 +80,7 @@ export default function Header() {
             <span>Skills & Tools</span>
           </button>
           <a
-            href="/public/resume.pdf"
+            href="/CV_Luc Do_Business Analyst.pdf"
             download
             className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium"
           >
@@ -139,7 +139,7 @@ export default function Header() {
               <span>Skills & Tools</span>
             </button>
             <a
-              href="/public/resume.pdf"
+              href="/CV_Luc Do_Business Analyst.pdf"
               download
               className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium w-full justify-center"
             >
