@@ -31,12 +31,12 @@ export default function CertificationsSection() {
                 rel="noopener noreferrer"
                 className="border border-gray-800 rounded-lg p-5 hover:border-[#3bc7e5] hover:bg-gray-800/30 transition-all group h-full flex flex-col items-center text-center"
               >
-                <div className="w-32 h-32 relative mb-5 flex-shrink-0">
+                <div className="h-32 relative mb-5 flex-shrink-0">
                   <Image
                     src={cert.badgeUrl || "/placeholder.svg"}
                     alt={cert.title}
-                    width={100}
-                    height={100}
+                    width={128}
+                    height={128}
                     className="object-contain max-h-28"
                   />
                 </div>
