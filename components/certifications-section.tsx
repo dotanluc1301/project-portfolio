@@ -29,19 +29,19 @@ export default function CertificationsSection() {
                 href={cert.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border border-gray-800 rounded-lg p-6 hover:border-[#3bc7e5] hover:bg-gray-800/30 transition-all group h-full flex flex-col items-center text-center"
+                className="border border-gray-800 rounded-lg p-5 hover:border-[#3bc7e5] hover:bg-gray-800/30 transition-all group h-full flex flex-col items-center text-center"
               >
                 <div className="w-32 h-32 relative mb-5 flex-shrink-0">
                   <Image
                     src={cert.badgeUrl || "/placeholder.svg"}
                     alt={cert.title}
-                    width={128}
-                    height={128}
-                    className="object-contain"
+                    width={100}
+                    height={100}
+                    className="object-contain max-h-28"
                   />
                 </div>
                 <div className="flex-1 flex flex-col w-full">
-                  <h3 className="text-base font-medium text-white group-hover:text-[#3bc7e5] transition-colors mb-3">
+                  <h3 className="text-base font-medium text-white group-hover:text-[#3bc7e5] transition-colors mb-3 line-clamp-2">
                     {cert.title}
                   </h3>
 
