@@ -184,6 +184,13 @@
   ],
   "projects": [
     {
+      "title": "BI - Customer Shopping Behavior Analysis",
+      "description": "The reference template(s) for BA documentation.",
+      "outcomes": "",
+      "link": "https://github.com/dotanluc1301/BI-Customer-Shopping-Behavior-Analysis",
+      "image": "/Databricks-Retail-Report.png"
+    },
+    {
       "title": "BA documentation",
       "description": "The reference template(s) for BA documentation.",
       "outcomes": "",
