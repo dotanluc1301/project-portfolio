@@ -76,15 +76,23 @@
       "date": "10/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1072.png",
-      "link": "https://www.credly.com/badges/780a449a-01e9-4dca-93f2-8c22079ec17f"
+      "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
     },{
       "title": "1Z0-1085",
       "issuer": "Oracle",
       "date": "10/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1085.png",
-      "link": "https://www.credly.com/badges/780a449a-01e9-4dca-93f2-8c22079ec17f"
+      "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
     },{
+      "title": "1Z0-1122",
+      "issuer": "Oracle",
+      "date": "11/2025",
+      "validUntil": null,
+      "badgeUrl": "/1Z0-1122.png",
+      "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
+    },
+    {
       "title": "Scaled Professional Scrum",
       "issuer": "Scrum.org",
       "date": "09/2024",
