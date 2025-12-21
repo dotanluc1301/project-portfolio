@@ -80,7 +80,7 @@ export default function Header() {
             <span>Skills & Tools</span>
           </button>
           <a
-            href="/CV_Luc Do_Business Analyst.pdf"
+            href="/CV_Do Tan Luc_Product Owner.pdf"
             download
             className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium"
           >
