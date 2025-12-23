@@ -9,9 +9,10 @@
   "website": "lucdo-portfolio.vercel.app/",
   "avatar": "/me.jpg",
   "summary": [
-    "I'm a Business Analyst/Scrum Master with over 3 years of experience in software development and digital transformation, working with leading companies in industry.",
-    "I have a strong passion for learning new things to contribute significant impact solutions that streamline processes and improve user experiences.",
-    "My analytical approach and technical background allow me to bridge the gap between business needs and technical implementation, ensuring successful project delivery."
+    "Business Analyst/Scrum Master with over 3 years of experience in software development and digital transformation, working with leading companies in Data Governance, HRMS, Finance and Supply Chain domains.",
+    "Experienced in Agile/Scrum practices, backlog management, wireframe, UML modeling and testing before UAT.",
+    "Certified across Scrum Master and Product Owner tracks, with strong analytical, critical thinking and SQL skills.",
+    "Motivated to grow further in a Product Owner role, focusing on optimizing business processes and delivering measurable business value."
   ],
   "experience": [
     {
@@ -20,11 +21,12 @@
       "period": "03/2024 - Present",
       "teamSize": 8,
       "responsibilities": [
-        "Build and maintain effective relationships with clients and stakeholders",
-        "Facilitate conversations with stakeholders to identify needs and create requirements",
-        "Ensure client satisfaction and gather feedback for continuous improvement",
-        "Monitor and measure the feature performance",
-        "Support UAT with test cases and data"
+        "Projects: Assess Management, Tax Accounting, and Network Supply Management.",
+        "Spearheaded the digital transformation of legacy manual processes to a semi-automated system, enhancing operational scalability.",
+        "Consistently achieved an 80% user satisfaction rate by optimizing support protocols and internal software interfaces.",
+        "Boosted operational throughput by 20-33%, significantly decreasing manual processing time.",
+        "Mitigated supply chain inefficiencies, yielding 15-21% savings in material and process waste.",
+        "Refined demand forecasting and replenishment cycles, enhancing overall stock efficiency by 12-17%."
       ]
     },
     {
@@ -33,13 +35,11 @@
       "period": "06/2022 - 10/2023",
       "teamSize": 15,
       "responsibilities": [
-        "Collect and research the business needs by the demand of the product orientation and feedback",
-        "Inspect and conduct the gap analysis against the competitors in the market",
-        "Design wireframe, compose the models (by using UML) and document for requirement communication",
-        "Work closely with the development team to ensure requirements alignment and successful implementation",
-        "Present the demo with the relevant stakeholders and provide aid in training after release",
-        "Measure the release performance metrics and act accordingly with the result",
-        "Take Scrum delegation role in hosting events, facilitating communication, and crafting the Product roadmap with the technical base"
+        "Elicited and analyzed business needs from user feedback and product goals to drive strategic alignment.",
+        "Performed gap analysis against market competitors to identify product opportunities and risks.",
+        "Partnered with developers to translate complex requirements into actionable technical tasks and ensure high-quality delivery.",
+        "Monitored post-release metrics and performance data to implement data-driven improvements for future cycles.",
+        "Facilitated Scrum events (daily standups, planning, retrospectives) while leveraging technical insights to co-develop the product roadmap."
       ],
       "projects": [
         {
@@ -54,11 +54,11 @@
       "period": "03/2019 - 05/2022",
       "teamSize": 7,
       "responsibilities": [
-        "Act as a consultant for non-technical & technical solutions",
-        "Take part in analysing requirements and eliciting the needs of stakeholders through open points",
-        "Provide remote technical support to customers via e-mail and Q&A meeting sessions",
-        "Manage and create release details on business documents",
-        "Implement new features and fix the existing defects"
+        "Acted as a consultant for both technical and non-technical solutions.",
+        "Analyzed requirements and elicited stakeholder needs through open points.",
+        "Provided remote technical support to customers via email and Q&A meeting sessions.",
+        "Managed and created release details in business documents.",
+        "Implemented new features and fixed existing defects in the software."
       ]
     }
   ],
@@ -71,6 +71,13 @@
   ],
   "certifications": [
     {
+      "title": "Gemini Certified Faculty",
+      "issuer": "Google",
+      "date": "12/2025-12/2028",
+      "validUntil": null,
+      "badgeUrl": "/gemini-certified-faculty.png",
+      "link": "https://edu.google.accredible.com/5074bc39-3db7-4a20-8568-f22dd5ba3c2c#acc.3P6UtXg9"
+    },{
       "title": "Gemini Certified Educator",
       "issuer": "Google",
       "date": "12/2025-12/2028",
