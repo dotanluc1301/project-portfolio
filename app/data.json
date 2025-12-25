@@ -221,12 +221,18 @@
     {
       "name": "English",
       "proficiency": "Professional Working Proficiency"
+    },{
+      "name": "German",
+      "proficiency": "Basics"
     }
   ],
   "tools": [
     "Azure Boards",
     "DrawIO",
     "Figma",
+    "Power BI",
+    "Databricks",
+    "UiPath",
     "SQL Server",
     "SharePoint",
     "Oracle",

@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 // Split the summary into paragraphs and extract domains
 const summaryParagraphs = data.summary;
 
-const experiencedDomains = ["Data Warehouse", "HRMS", "Finance", "Supply Chain"]
+const experiencedDomains = ["Data Governance", "HRMS", "Finance", "Supply Chain","E-commerce"]
 
 export default function SummarySection() {
   return (
