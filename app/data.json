@@ -9,10 +9,18 @@
   "website": "lucdo-portfolio.vercel.app/",
   "avatar": "/me.jpg",
   "summary": [
-    "Business Analyst/Scrum Master with over 3 years of experience in software development and digital transformation, working with leading companies in Data Governance, HRMS, Finance and Supply Chain domains.",
+    "Business Analyst/Scrum Master with over 3 years of experience in software development and digital transformation, working with leading companies in Data Governance, ERP (HRMS, Accounting, Supply Chain), Manufactoring, and E-commerce domains.",
     "Experienced in Agile/Scrum practices, backlog management, wireframe, UML modeling and testing before UAT.",
     "Certified across Scrum Master and Product Owner tracks, with strong analytical, critical thinking and SQL skills.",
     "Motivated to grow further in a Product Owner role, focusing on optimizing business processes and delivering measurable business value."
+  ],
+  "domains":[
+    "Data Governance", 
+    "HRMS", 
+    "Finance", 
+    "Supply Chain",
+    "Manufacturing",
+    "E-commerce"
   ],
   "experience": [
     {
@@ -220,7 +228,7 @@
   "languages": [
     {
       "name": "English",
-      "proficiency": "Professional Working Proficiency"
+      "proficiency": "Professional"
     },{
       "name": "German",
       "proficiency": "Basics"
@@ -244,34 +252,34 @@
   "projects": [
     {
       "title": "BI - Customer Shopping Behavior Analysis",
-      "description": "The reference template(s) for BA documentation.",
+      "description": "My pet project for practice data analysing.",
       "outcomes": "",
       "link": "https://github.com/dotanluc1301/BI-Customer-Shopping-Behavior-Analysis",
       "image": "/Databricks-Retail-Report.png"
     },
     {
-      "title": "BA documentation",
+      "title": "Business Analysis Documentation",
       "description": "The reference template(s) for BA documentation.",
       "outcomes": "",
       "link": "https://lucdo.notion.site/BA-documents-61d45c8e9917450eba3b8c1bef5acc8c",
       "image": "/NOTION-Logo.png"
     },
     {
-      "title": "EVOL assessment",
+      "title": "EVOL Take-Home Assessment",
       "description": "The change prososal and competitive analytics.",
       "outcomes": "",
       "link": "https://github.com/dotanluc1301/assessment/tree/main/EVOL",
       "image": "/EVOL-Logo.png"
     },
     {
-      "title": "Tapestry assessment",
+      "title": "Tapestry Take-Home Assessment",
       "description": "The functional requirement document (FRD) for function import",
       "outcomes": "",
       "link": "https://github.com/dotanluc1301/assessment/tree/main/Tapestry",
       "image": "/Tapestry-Logo.png"
     },
     {
-      "title": "REDEX assessment",
+      "title": "REDEX Take-Home Assessment",
       "description": "The list of user stories for onboarding process.",
       "outcomes": "",
       "link": "https://github.com/dotanluc1301/assessment/tree/main/REDEX%20-%20SGITSOLUTION",

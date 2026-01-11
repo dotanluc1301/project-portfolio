@@ -17,7 +17,7 @@ export default function CertificationsSection() {
         <h2 className="text-3xl font-bold mb-8">
           <span className="text-[#3bc7e5] mr-2 opacity-70">03.</span>
           <span className="bg-gradient-to-r from-[#3bc7e5] to-[#8b5cf6] text-transparent bg-clip-text">
-            Certifications
+            Certifications ({data.certifications.length})
           </span>
         </h2>
 

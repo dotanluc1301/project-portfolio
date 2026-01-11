@@ -25,7 +25,7 @@ export default function SkillsSection() {
           <div className="border border-gray-800 rounded-lg p-6 hover:border-[#3bc7e5] transition-colors">
             <div className="flex items-center mb-4">
               <Wrench className="text-[#3bc7e5] mr-2" size={20} />
-              <h3 className="text-xl font-semibold">Tools</h3>
+              <h3 className="text-xl font-semibold">Tools ({data.tools.length})</h3>
             </div>
             <ul className="space-y-2 text-gray-300">
               {data.tools.map((tool, index) => (
@@ -41,7 +41,7 @@ export default function SkillsSection() {
           <div className="border border-gray-800 rounded-lg p-6 hover:border-[#3bc7e5] transition-colors">
             <div className="flex items-center mb-4">
               <Cpu className="text-[#3bc7e5] mr-2" size={20} />
-              <h3 className="text-xl font-semibold">Skills</h3>
+              <h3 className="text-xl font-semibold">Skills ({data.skills.length})</h3>
             </div>
             <ul className="space-y-2 text-gray-300">
               {data.skills.map((skill, index) => (
@@ -57,7 +57,7 @@ export default function SkillsSection() {
           <div className="border border-gray-800 rounded-lg p-6 hover:border-[#3bc7e5] transition-colors">
             <div className="flex items-center mb-4">
               <Languages className="text-[#3bc7e5] mr-2" size={20} />
-              <h3 className="text-xl font-semibold">Languages</h3>
+              <h3 className="text-xl font-semibold">({data.languages.length})</h3>
             </div>
             <ul className="space-y-2 text-gray-300">
               {data.languages.map((language, index) => (

@@ -22,7 +22,7 @@ export default function ExperienceSection() {
       >
         <h2 className="text-3xl font-bold mb-8">
           <span className="text-[#3bc7e5] mr-2 opacity-70">02.</span>
-          <span className="bg-gradient-to-r from-[#3bc7e5] to-[#8b5cf6] text-transparent bg-clip-text">Experience</span>
+          <span className="bg-gradient-to-r from-[#3bc7e5] to-[#8b5cf6] text-transparent bg-clip-text">Experience ({experienceData.length})</span>
         </h2>
 
         <div className="flex flex-col md:flex-row gap-6 min-h-[500px]">
