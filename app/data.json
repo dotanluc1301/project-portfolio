@@ -79,83 +79,126 @@
   ],
   "certifications": [
     {
+      "title": "Software Engineer",
+      "issuer": "HackerRank",
+      "date": "03/2026",
+      "validUntil": null,
+      "badgeUrl": "/Software-Engineer.png",
+      "link": "https://www.hackerrank.com/certificates/fc80dc11e6a7"
+    },
+    {
+      "title": "Problem Solving (Intermediate)",
+      "issuer": "HackerRank",
+      "date": "03/2026",
+      "validUntil": null,
+      "badgeUrl": "/Problem-Solving-(Intermediate).png",
+      "link": "https://www.hackerrank.com/certificates/0f527849b084"
+    },
+    {
+      "title": "SQL (Intermediate)",
+      "issuer": "HackerRank",
+      "date": "03/2026",
+      "validUntil": null,
+      "badgeUrl": "/SQL-(Intermediate).png",
+      "link": "https://www.hackerrank.com/certificates/5cd516eed362"
+    },
+    {
+      "title": "EF SET English Certificate",
+      "issuer": "EF SET",
+      "date": "03/2026",
+      "validUntil": null,
+      "badgeUrl": "/EF-SET-Certificate-2026.png",
+      "link": "https://cert.efset.org/uhKWvG"
+    },
+    {
       "title": "Gemini Certified Faculty",
       "issuer": "Google",
       "date": "12/2025-12/2028",
       "validUntil": null,
       "badgeUrl": "/gemini-certified-faculty.png",
       "link": "https://edu.google.accredible.com/5074bc39-3db7-4a20-8568-f22dd5ba3c2c#acc.3P6UtXg9"
-    },{
+    },
+    {
       "title": "Gemini Certified Educator",
       "issuer": "Google",
       "date": "12/2025-12/2028",
       "validUntil": null,
       "badgeUrl": "/gemini-certified-educator.png",
       "link": "https://edu.google.accredible.com/2b360f2b-8ff7-4dcf-af6c-dac2378b7848#acc.PYhtuoze"
-    },{
+    },
+    {
       "title": "Gemini Certified University Student",
       "issuer": "Google",
       "date": "12/2025-12/2028",
       "validUntil": null,
       "badgeUrl": "/gemini-certified-university-student.png",
       "link": "https://edu.google.accredible.com/73b2dc11-96d9-4b80-a705-038fc0164eab#acc.sSu8cHKB"
-    },{
+    },
+    {
       "title": "1Z0-1195",
       "issuer": "Oracle",
       "date": "12/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1195.png",
       "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
-    },{
+    },
+    {
       "title": "1Z0-1145",
       "issuer": "Oracle",
       "date": "12/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1145.png",
       "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
-    },{
+    },
+    {
       "title": "1Z0-1122",
       "issuer": "Oracle",
       "date": "11/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1122.png",
       "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
-    },{
+    },
+    {
       "title": "1Z0-1072",
       "issuer": "Oracle",
       "date": "10/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1072.png",
       "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
-    },{
+    },
+    {
       "title": "1Z0-1085",
       "issuer": "Oracle",
       "date": "10/2025",
       "validUntil": null,
       "badgeUrl": "/1Z0-1085.png",
       "link": "https://www.credly.com/users/t-n-l-c-d/badges#other"
-    },{
+    },
+    {
       "title": "Scaled Professional Scrum",
       "issuer": "Scrum.org",
       "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/Scaled-Professional-Scrum.png",
       "link": "https://www.credly.com/badges/780a449a-01e9-4dca-93f2-8c22079ec17f"
-    },{
+    },
+    {
       "title": "C# (Basic)",
       "issuer": "HackerRank",
       "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/CSharp-(Basic).png",
       "link": "https://www.hackerrank.com/certificates/a5f8063755cb"
-    },    {
+    },
+    {
       "title": "Problem Solving (Basic)",
       "issuer": "HackerRank",
       "date": "09/2024",
       "validUntil": null,
       "badgeUrl": "/Problem-Solving-(Basic).png",
       "link": "https://www.hackerrank.com/certificates/bf2bb1daa7a3"
-    },    {
+    },
+    {
       "title": "SQL (Intermediate)",
       "issuer": "HackerRank",
       "date": "09/2024",
@@ -184,7 +227,7 @@
       "issuer": "EF SET",
       "date": "04/2024",
       "validUntil": null,
-      "badgeUrl": "/EF-SET-Certificate.png",
+      "badgeUrl": "/EF-SET-Certificate-2024.png",
       "link": "https://cert.efset.org/mPQjYr"
     },
     {
