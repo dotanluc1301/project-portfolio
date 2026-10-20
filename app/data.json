@@ -25,13 +25,13 @@
   "experience": [
     {
       "company": "DHL",
-      "position": "Business Analyst",
+      "position": "Business Analyst / Product Owner",
       "period": "03/2024 - Present",
       "teamSize": 8,
       "responsibilities": [
         "Projects: Assess Management, Tax Accounting, and Network Supply Management.",
-        "Spearheaded the digital transformation of legacy manual processes to a semi-automated system, enhancing operational scalability.",
-        "Consistently achieved an 80% user satisfaction rate by optimizing support protocols and internal software interfaces.",
+        "Led the product vision and digital transformation of legacy manual processes into a scalable semi-automated system, aligning cross-functional stakeholders to enhance operational efficiency.",
+        "Drove a data-backed UI/UX redesign and optimized support protocols, consistently achieving an 80% user satisfaction rate across global internal teams.",
         "Boosted operational throughput by 20-33%, significantly decreasing manual processing time.",
         "Mitigated supply chain inefficiencies, yielding 15-21% savings in material and process waste.",
         "Refined demand forecasting and replenishment cycles, enhancing overall stock efficiency by 12-17%."
@@ -39,15 +39,14 @@
     },
     {
       "company": "bravoSUITE - Orient Software",
-      "position": "Business Analyst/Scrum Master",
+      "position": "Product Consultant / IT BA",
       "period": "06/2022 - 10/2023",
       "teamSize": 15,
       "responsibilities": [
-        "Elicited and analyzed business needs from user feedback and product goals to drive strategic alignment.",
-        "Performed gap analysis against market competitors to identify product opportunities and risks.",
-        "Partnered with developers to translate complex requirements into actionable technical tasks and ensure high-quality delivery.",
-        "Monitored post-release metrics and performance data to implement data-driven improvements for future cycles.",
-        "Facilitated Scrum events (daily standups, planning, retrospectives) while leveraging technical insights to co-develop the product roadmap."
+        "Architected and developed core features for an enterprise-scale WinForms application using C# / VB.NET, deployed via Citrix virtual environments for global users.",
+        "Designed and exposed robust SOAP APIs to facilitate seamless system integrations with third-party platforms, including Office 365, On-premise infrastructure, and centralized shared folder management.",
+        "Integrated LDAP authentication services to ensure secure, centralized user management and hardware device access control.",
+        "Served as a Technical Product Bridge, eliciting complex stakeholder requirements and consulting on end-to-end technical solutions."
       ],
       "projects": [
         {
