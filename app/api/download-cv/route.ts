@@ -4,7 +4,7 @@ import path from "path"
 
 export async function GET() {
   try {
-    const filePath = path.join(process.cwd(), "public", "CV_Do_Tan_Luc.pdf")
+    const filePath = path.join(process.cwd(), "public", "CV_Do Tan Luc.pdf")
     
     // Fallback to original filename with spaces if needed
     const resolvedPath = fs.existsSync(filePath)
@@ -21,7 +21,7 @@ export async function GET() {
       status: 200,
       headers: {
         "Content-Type": "application/pdf",
-        "Content-Disposition": 'attachment; filename="CV_Do_Tan_Luc.pdf"',
+        "Content-Disposition": 'attachment; filename="CV_Do Tan Luc.pdf"',
         "Content-Length": fileBuffer.length.toString(),
       },
     })
