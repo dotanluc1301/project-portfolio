@@ -20,6 +20,26 @@ export default function Header() {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
 
+  const handleDownloadCv = async (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault()
+    try {
+      const response = await fetch("/api/download-cv")
+      if (!response.ok) throw new Error("Failed to download CV")
+      const blob = await response.blob()
+      const url = window.URL.createObjectURL(blob)
+      const link = document.createElement("a")
+      link.href = url
+      link.download = "CV_Do_Tan_Luc.pdf"
+      document.body.appendChild(link)
+      link.click()
+      window.URL.revokeObjectURL(url)
+      document.body.removeChild(link)
+    } catch (err) {
+      console.error("Error initiating CV download:", err)
+      window.location.href = "/api/download-cv"
+    }
+  }
+
   const scrollToSection = (sectionId: string) => {
     setIsOpen(false)
     const element = document.getElementById(sectionId)
@@ -80,9 +100,10 @@ export default function Header() {
             <span>Skills & Tools</span>
           </button>
           <a
-            href="/CV_Do Tan Luc.pdf"
-            download
-            className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium"
+            href="/api/download-cv"
+            onClick={handleDownloadCv}
+            download="CV_Do_Tan_Luc.pdf"
+            className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium cursor-pointer"
           >
             <FileText size={16} className="mr-2" />
             Download CV
@@ -139,9 +160,10 @@ export default function Header() {
               <span>Skills & Tools</span>
             </button>
             <a
-              href="/CV_Do Tan Luc.pdf"
-              download
-              className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium w-full justify-center"
+              href="/api/download-cv"
+              onClick={handleDownloadCv}
+              download="CV_Do_Tan_Luc.pdf"
+              className="inline-flex items-center bg-[#3bc7e5] hover:bg-[#2ba5c3] text-black px-4 py-2 rounded-md transition-colors font-medium w-full justify-center cursor-pointer"
             >
               <FileText size={16} className="mr-2" />
               Download CV

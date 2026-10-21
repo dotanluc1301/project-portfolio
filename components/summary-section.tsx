@@ -2,7 +2,7 @@
 
 import Image from "next/image"
 import data from "@/app/data.json"
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 
 // Split the summary into paragraphs and extract domains
 const summaryParagraphs = data.summary;

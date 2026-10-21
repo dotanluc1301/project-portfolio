@@ -10,8 +10,8 @@ import Header from "@/components/header"
 import { Mail, Linkedin, Github, Phone, MapPin } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: `Portfolio | ${data.title}`,
-  description: `Personal portfolio website showcasing skills and experience as a ${data.title}`,
+  title: "Project Portfolio - Do Tan Luc",
+  description: "Personal portfolio website showcasing skills, certifications, experience, and projects as a Business Analyst and Project Manager.",
 }
 
 export default function Home() {

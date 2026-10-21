@@ -6,9 +6,12 @@ import type { Metadata } from "next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Portfolio Website",
-  description: "Personal portfolio website showcasing skills and experience",
-    generator: 'v0.dev'
+  title: "Project Portfolio - Do Tan Luc",
+  description: "Personal portfolio website showcasing skills, certifications, experience, and projects as a Business Analyst and Project Manager.",
+  openGraph: {
+    title: "Project Portfolio - Do Tan Luc",
+    description: "Personal portfolio website showcasing skills, certifications, experience, and projects as a Business Analyst and Project Manager.",
+  },
 }
 
 export default function RootLayout({
@@ -17,8 +20,10 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <body className={inter.className} suppressHydrationWarning>
+        {children}
+      </body>
     </html>
   )
 }

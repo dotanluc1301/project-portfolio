@@ -3,7 +3,7 @@
 import { useState } from "react"
 import Link from "next/link"
 import data from "@/app/data.json"
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 import { Users, ExternalLink } from "lucide-react"
 
 export default function ExperienceSection() {

@@ -3,7 +3,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import data from "@/app/data.json"
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 import { ExternalLink } from "lucide-react"
 
 // Extended projects data with images

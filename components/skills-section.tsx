@@ -1,7 +1,7 @@
 "use client"
 
 import data from "@/app/data.json"
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 import { Wrench, Cpu, Languages } from "lucide-react"
 
 export default function SkillsSection() {

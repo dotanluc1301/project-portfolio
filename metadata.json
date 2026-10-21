@@ -1,0 +1,8 @@
+{
+  "name": "Project Portfolio - Do Tan Luc",
+  "description": "Personal portfolio website showcasing skills, certifications, experience, and projects as a Business Analyst and Project Manager.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
