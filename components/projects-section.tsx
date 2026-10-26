@@ -37,6 +37,7 @@ export default function ProjectsSection() {
                     src={project.image || "/placeholder.svg?height=200&width=300"}
                     alt={project.title}
                     fill
+                    referrerPolicy="no-referrer"
                     className="object-cover"
                   />
                 </div>

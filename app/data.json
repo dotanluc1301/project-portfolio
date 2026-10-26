@@ -302,6 +302,20 @@
       "image": "/Databricks-Retail-Report.png"
     },
     {
+      "title": "Siam Hospital - Operations & Analytics Dashboard",
+      "description": "Interactive hospital operations and clinical intelligence dashboard tracking patient flow, departmental KPIs, resource utilization, and revenue performance.",
+      "outcomes": "",
+      "link": "http://dashboard.siamhospital.com.vn:3000/",
+      "image": "/siam-dashboard.jpg"
+    },
+    {
+      "title": "Siam Cosmetic - Customer Loyalty & Rewards Platform",
+      "description": "Customer retention and loyalty web application featuring membership tier management, accumulated points redemption, personalized rewards, and promotional campaign workflows.",
+      "outcomes": "",
+      "link": "https://siam-cosmetic-loyalty.vercel.app/",
+      "image": "/siam-loyalty.jpg"
+    },
+    {
       "title": "Business Analysis Documentation",
       "description": "The reference template(s) for BA documentation.",
       "outcomes": "",
